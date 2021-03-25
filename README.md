@@ -29,13 +29,13 @@ Miembros
 -----
 Para poder obtener el análisis comparativo, hemos buscado diferentes aplicaciones y páginas web de turismo en Granada.
 
-![alt text](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
+![tabla de competidores](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 Para empezar, creamos a María, una mujer jubilada con muchas ganas de viajar y descubrir nuevos lugares, pero no tiene un buen entendimiento de las nuevas tecnologías. Nos pareció una persona ideal de estudiar ya que tendría el interés de utilizar una plataforma con información turística y le podría ayudar mucho, pero va a tener el gran conflicto de navegarla de forma correcta.
-
+![tabla de María](https://github.com/amxndam/DIU21/blob/main/img/maria2.jpg)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
