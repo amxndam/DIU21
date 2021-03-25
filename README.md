@@ -45,7 +45,7 @@ Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario qu
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria1.png)
+![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria1.jpg)
 
 
 ![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin1.png)
