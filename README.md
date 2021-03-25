@@ -27,7 +27,7 @@ Miembros
 
 ![Método UX](img/Competitive.jpg) 1.a Competitive Analysis
 -----
-En esta práctica hemos decidido comparar aplicaciones y páginas web con turismo
+Para poder obtener el análisis comparativo, hemos buscado diferentes aplicaciones y páginas web de turismo en Granada.
 
 ![alt text](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
 
