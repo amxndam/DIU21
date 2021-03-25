@@ -29,7 +29,7 @@ Miembros
 -----
 En esta práctica hemos decidido comparar aplicaciones y páginas web con turismo
 
-![alt text](https://github.com/amxndam/DIU21/blob/img/tablaCompetidores.jpg?raw=true)
+![alt text](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
