@@ -40,7 +40,7 @@ Para empezar, creamos a María, una mujer jubilada con muchas ganas de viajar y 
 
 Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras mudarse, vuelven de visita con más ganas que nunca a disfrutar de la ciudad.
 
-![tabla de Joaquín](https://github.com/amxndam/DIU21/blob/main/img/joaquin2.png)
+![tabla de Joaquín](https://github.com/amxndam/DIU21/blob/main/img/joaquin22.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
