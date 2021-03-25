@@ -25,7 +25,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.jpg) 1.a Competitive Analysis
 -----
 En esta práctica hemos decidido comparar aplicaciones y páginas web con turismo
 
