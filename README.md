@@ -34,7 +34,9 @@ Para poder obtener el análisis comparativo, hemos buscado diferentes aplicacion
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Para empezar, creamos a María, una mujer jubilada con muchas ganas de viajar y descubrir nuevos lugares, pero no tiene un buen entendimiento de las nuevas tecnologías. Nos pareció una persona ideal de estudiar ya que tendría el interés de utilizar una plataforma con información turística y le podría ayudar mucho, pero va a tener el gran conflicto de navegarla de forma correcta.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
