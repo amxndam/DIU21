@@ -45,6 +45,11 @@ Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario qu
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria1.png)
+
+
+![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin1.png)
+
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
