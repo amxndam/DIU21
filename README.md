@@ -34,17 +34,17 @@ Para poder obtener el análisis comparativo, hemos buscado diferentes aplicacion
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Para empezar, creamos a María, una mujer jubilada con muchas ganas de viajar y descubrir nuevos lugares, pero no tiene un buen entendimiento de las nuevas tecnologías. Nos pareció una persona ideal de estudiar ya que tendría el interés de utilizar una plataforma con información turística y le podría ayudar mucho, pero va a tener el gran conflicto de navegarla de forma correcta.
+Para empezar, hemos creado a María, una mujer jubilada con muchas ganas de viajar y descubrir nuevos lugares, pero no tiene un buen entendimiento de las nuevas tecnologías. Nos pareció una persona ideal de estudiar ya que tendría el interés de utilizar una plataforma con información turística y le podría ayudar mucho, pero va a tener el gran conflicto de navegarla de forma correcta.
 
 ![tabla de María](https://github.com/amxndam/DIU21/blob/main/img/maria22.jpg)
 
-Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras mudarse, vuelven de visita con más ganas que nunca a disfrutar de la ciudad.
+Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras irse, vuelven de visita con más ganas que nunca de disfrutar de la ciudad.
 
 ![tabla de Joaquín](https://github.com/amxndam/DIU21/blob/main/img/joaquin22.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-Para María, hemos pensado en una experiencia relacionada con su falta de conocimiento de navegar por internet y moverse por las aplicaciones. Es un caso muy habital el no encontrar alguna funcionalidad cuando uno no está acostumbrado a navegar por estas plataformas.
+Para María, hemos pensado en una experiencia relacionada con su falta de conocimiento de navegar por las aplicaciones. Es un caso muy habital no encontrar alguna funcionalidad cuando uno no está acostumbrado a navegar por estas plataformas.
 
 ![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria11.jpg)
 
