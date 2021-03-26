@@ -41,7 +41,7 @@ Para empezar, hemos creado a María, una mujer jubilada con muchas ganas de viaj
 
 ![tabla de María](https://github.com/amxndam/DIU21/blob/main/img/Maria.png)
 
-Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras irse, vuelven de visita con más ganas que nunca de disfrutar de la ciudad. A diferencia de María, Joaquín está más acostumbrado al uso de la tecnología en cambio él se enfrenta a un conflicto distinto relacionado con las funcionalidades que proporciona la web.
+Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras irse, vuelven de visita con más ganas que nunca de disfrutar de la ciudad. A diferencia de María, Joaquín es una persona acostumbrada al uso de la tecnología.
 
 ![tabla de Joaquín](https://github.com/amxndam/DIU21/blob/main/img/Joaquin.png)
 
