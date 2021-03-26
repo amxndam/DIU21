@@ -27,11 +27,12 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Hemos decidido elegir TurGranada, una plataforma de turismo de la diputación de Granada. Por lo que comenzamos buscando diferentes aplicaciones y páginas web que ofrecen una experiencia similar a ésta para poder hacer su análisis competitivo. Para ello, hemos elaborado la siguiente tabla:
+Hemos elegido TurGranada, una plataforma de turismo de la diputación de Granada. Por lo que comenzamos buscando diferentes aplicaciones y páginas web que ofrecen una experiencia similar a ésta para poder hacer su análisis competitivo. Para ello, hemos elaborado la siguiente tabla:
 
-![tabla de competidores](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
+![tabla de competidores](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores2.jpg)
 
-Hemos comprobado que junto con GranadaTur, son las dos plataformas que más opciones ofrecen y son gratuitas.
+Hemos comprobado que TurGranada es de las plataformas que más opciones ofrece junto con GranadaTur, una plataforma del ayuntamiento de Granada. Ambas ofrecen todo tipo opciones y son gratuitas, pero, GranadaTur no dispone de una opción de iniciar sesión y sí dispone de audioguías, a diferencia de TurGranada.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
