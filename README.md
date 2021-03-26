@@ -27,9 +27,11 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Para poder obtener el análisis comparativo, hemos buscado diferentes aplicaciones y páginas web de turismo en Granada y las hemos comparado en la siguiente tabla:
+Nos hemos decantado por la plataforma TurGranada. Por lo que comenzamos buscando diferentes aplicaciones y páginas web que ofrecen una experiencia similar a ésta para poder hacer su análisis competitivo. Para ello, hemos elaborado la siguiente tabla:
 
 ![tabla de competidores](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
+
+Hemos comprobado que junto con GranadaTur, son las dos plataformas que más opciones ofrecen y son gratuitas.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -48,7 +50,7 @@ Para María, hemos pensado en una experiencia relacionada con su falta de conoci
 
 ![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria11.jpg)
 
-Para Joaquín, hemos escogido esta experiencia porque es muy común no poder reunir toda la información de los alquileres y tener que llamar a cada sitio a preguntar.
+Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no poder reunir toda la información de los alquileres y tener que llamar a cada sitio a preguntar.
 
 ![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin11.png)
 
@@ -56,11 +58,10 @@ Para Joaquín, hemos escogido esta experiencia porque es muy común no poder reu
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+![Documento de usabilidad](https://github.com/amxndam/DIU21/blob/main/P1/Usability-review-template.pdf)
+
+Hemos terminado con una valoración de 77 sobre 100. Creemos que es una plataforma con que ofrece una experiencia adecuada. Podría mejorar sobre todo en su rendimiento, ya que a veces tarda en cargarse y la conexión a ayuda ya que se abre en la misma ventana. La plataforma excede en tener una navegación sencilla y clara.
 
 
 ## Paso 2. UX Design  
