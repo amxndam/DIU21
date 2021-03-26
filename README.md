@@ -25,7 +25,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.jpg) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 Para poder obtener el análisis comparativo, hemos buscado diferentes aplicaciones y páginas web de turismo en Granada y las hemos comparado en la siguiente tabla:
 
