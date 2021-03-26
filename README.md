@@ -48,9 +48,9 @@ Para María, hemos pensado en una experiencia relacionada con su falta de conoci
 
 ![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria11.jpg)
 
-Para Joaquín, hemos escogido esta experiencia porque es muy común
+Para Joaquín, hemos escogido esta experiencia porque es muy común no poder reunir toda la información de los alquileres y tener que llamar a cada sitio a preguntar.
 
-![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin1.png)
+![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin11.png)
 
 
 
