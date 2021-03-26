@@ -61,8 +61,8 @@ Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no pod
 ----
 
 >>> - Enlace al documento:  ![Usability Review](P1/Usability-review-template.pdf)
->>> - Valoración final (numérica): 77
->>> - Comentario sobre la valoración: Hemos terminado con una valoración de 77 sobre 100. Creemos que es una plataforma con que ofrece una experiencia adecuada. Podría mejorar sobre todo en su rendimiento, ya que a veces tarda en cargarse y la conexión a ayuda ya que se abre en la misma ventana. La plataforma excede en tener una navegación sencilla y clara. 
+>>> - Valoración final (numérica): 77(Good)
+>>> - Resumen de la práctica(BRIEFING): Ha obtenido una valoración de 77(Good) sobre 100. Creemos que es una plataforma con la que se ofrece una experiencia adecuada. Podría mejorar sobre todo en su rendimiento, ya que a veces tarda en cargarse, y la conexión a ayuda ya que se abre en la misma ventana. La plataforma excede en tener una navegación sencilla y clara pero le falta implementar la funcionalidad que la convertiría en una página web casi perfecta, y esa funcionalidad es permitir a los usuarios realizar las reservas a través de su web y no tener que acceder a webs externas.
 
 
 ## Paso 2. UX Design  
