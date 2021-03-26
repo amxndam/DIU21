@@ -27,7 +27,7 @@ Miembros
 
 ![Método UX](img/Competitive.jpg) 1.a Competitive Analysis
 -----
-Para poder obtener el análisis comparativo, hemos buscado diferentes aplicaciones y páginas web de turismo en Granada.
+Para poder obtener el análisis comparativo, hemos buscado diferentes aplicaciones y páginas web de turismo en Granada y las hemos comparado en la siguiente tabla:
 
 ![tabla de competidores](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores.jpg)
 
@@ -44,9 +44,11 @@ Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario qu
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Para María, hemos pensado en una experiencia relacionada con su falta de conocimiento de navegar por internet y moverse por las aplicaciones. Es un caso muy habital el no encontrar alguna funcionalidad cuando uno no está acostumbrado a navegar por estas plataformas.
 
 ![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria1.jpg)
 
+Para Joaquín, hemos escogido esta experiencia porque es muy común
 
 ![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin1.png)
 
