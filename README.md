@@ -36,7 +36,7 @@ Para poder obtener el análisis comparativo, hemos buscado diferentes aplicacion
 
 Para empezar, creamos a María, una mujer jubilada con muchas ganas de viajar y descubrir nuevos lugares, pero no tiene un buen entendimiento de las nuevas tecnologías. Nos pareció una persona ideal de estudiar ya que tendría el interés de utilizar una plataforma con información turística y le podría ayudar mucho, pero va a tener el gran conflicto de navegarla de forma correcta.
 
-![tabla de María](https://github.com/amxndam/DIU21/blob/main/img/maria2.jpg)
+![tabla de María](https://github.com/amxndam/DIU21/blob/main/img/maria22.jpg)
 
 Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras mudarse, vuelven de visita con más ganas que nunca a disfrutar de la ciudad.
 
@@ -46,7 +46,7 @@ Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario qu
 ----
 Para María, hemos pensado en una experiencia relacionada con su falta de conocimiento de navegar por internet y moverse por las aplicaciones. Es un caso muy habital el no encontrar alguna funcionalidad cuando uno no está acostumbrado a navegar por estas plataformas.
 
-![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria1.jpg)
+![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/maria11.jpg)
 
 Para Joaquín, hemos escogido esta experiencia porque es muy común
 
