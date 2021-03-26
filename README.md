@@ -53,7 +53,6 @@ Para Joaquín, hemos escogido esta experiencia porque es muy común
 ![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/joaquin1.png)
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
