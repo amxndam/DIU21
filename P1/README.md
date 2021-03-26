@@ -1,7 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_Alhucemas  Curso: 2020/21 
+Grupo: DIU2_Alhucemas  Curso: 2020/21 
 Updated: 26/03/2021
 
 Proyecto: 
