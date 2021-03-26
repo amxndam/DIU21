@@ -31,7 +31,7 @@ Hemos elegido TurGranada, una plataforma de turismo de la diputación de Granada
 
 ![tabla de competidores](https://github.com/amxndam/DIU21/blob/main/img/tablaCompetidores2.jpg)
 
-Hemos comprobado que TurGranada es de las plataformas que más opciones ofrece junto con GranadaTur, una plataforma del ayuntamiento de Granada. Ambas ofrecen todo tipo de opciones y son gratuitas, pero GranadaTur, a diferencia de TurGranada, no dispone de una opción de iniciar sesión, pero sí dispone de audioguías.
+Hemos comprobado que TurGranada es de las plataformas que más opciones ofrece junto con GranadaTur, una plataforma del ayuntamiento de Granada. Ambas ofrecen todo tipo de opciones y son gratuitas, pero GranadaTur, a diferencia de TurGranada, no dispone de una opción de iniciar sesión, pero sí dispone de audioguías. Aunque TurGranada está bien diseñada y ofrece una gran variedad de funcionalidades, le falta que implementar una de las funcionalidades más importantes que es el permitir a los usuarios hacer las reservas y pagar a través de la web, una funcionalidad que TurGranada no implementa y que la mayoría de sus competidores sí lo hacen como por ejemplo BeTogetherTours, Civitatis, etc. La falta de la implementación de esta funcionalidad le da la oportunidad a otras webs a competir con TurGranada ya que si se hubiera implementado no habría otros aspectos sobre los que otras webs competirían con TurGranada ya que en general es una página web bien diseñada.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
