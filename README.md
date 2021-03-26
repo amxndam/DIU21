@@ -41,7 +41,7 @@ Para empezar, hemos creado a María, una mujer jubilada con muchas ganas de viaj
 
 ![tabla de María](https://github.com/amxndam/DIU21/blob/main/img/Maria.png)
 
-Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras irse, vuelven de visita con más ganas que nunca de disfrutar de la ciudad.
+Posteriormente, decidimos crear a Joaquín Luque, un estudiante universitario que después de criarse en Granada, se ha mudado a Madrid. Nos resultó muy interesante que las plataformas turísticas de Granada no sólo serían usadas por turistas, sino también, por personas como Joaquín que tras irse, vuelven de visita con más ganas que nunca de disfrutar de la ciudad. A diferencia de María, Joaquín está más acostumbrado al uso de la tecnología en cambio él se enfrenta a un conflicto distinto relacionado con las funcionalidades que proporciona la web.
 
 ![tabla de Joaquín](https://github.com/amxndam/DIU21/blob/main/img/Joaquin.png)
 
@@ -51,7 +51,7 @@ Para María, hemos pensado en una experiencia relacionada con su falta de conoci
 
 ![tabla de Maria](https://github.com/amxndam/DIU21/blob/main/img/JourneyMap-Maria.png)
 
-Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no poder reunir toda la información de los alquileres y tener que llamar a cada sitio a preguntar.
+Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no poder reunir toda la información de los alquileres y tener que llamar a cada sitio a preguntar, como el caso de nuestra aplicación que no ofrece pagos a través de la web lo que nos obliga a consultar sitio a sitio.
 
 ![tabla de Joaquin](https://github.com/amxndam/DIU21/blob/main/img/JourneyMap-Joaquin.png)
 
