@@ -82,7 +82,7 @@ Tiene tanto página web como aplicación móvil | No se puede iniciar sesión pa
 Está disponible en varios idiomas | No se pueden reservar y comprar entradas de eventos directamente
 Contiene mapas |
 | ------------- | ------- |
- Preguntas | Nuevas ideas
+ Preguntas | Nuevas ideas |
 | ------------- | ------- |
   Poner más claro cómo reservar un alojamiento |
   
