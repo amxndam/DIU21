@@ -75,9 +75,16 @@ Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no pod
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
+ Interesante | Críticas |     
+| ------------- | ------- |
+La aplicación engloba todo lo necesario para el viaje, tanto restaurantes, como tours, como hoteles |
+Tiene tanto página web como aplicación móvil |
+
+
+
+
   Preguntas | Nuevas ideas
+  | ------------- | ------- |
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
