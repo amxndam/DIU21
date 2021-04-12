@@ -77,14 +77,13 @@ Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no pod
 
  Interesante | Críticas |     
 | ------------- | ------- |
-La aplicación engloba todo lo necesario para el viaje, tanto restaurantes, como tours, como hoteles | 
-Tiene tanto página web como aplicación móvil |
-Está disponible en varios idiomas |
+La aplicación engloba todo lo necesario para el viaje, tanto restaurantes, como tours, como hoteles | No tiene opción de reservar directamente un alojamiento
+Tiene tanto página web como aplicación móvil | No se puede iniciar sesión para guardar la información que nos interese en nuestra cuenta
+Está disponible en varios idiomas | No se pueden reservar y comprar entradas de eventos directamente
 Contiene mapas |
-
-
  Preguntas | Nuevas ideas
 | ------------- | ------- |
+  Poner más claro cómo reservar un alojamiento |
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
