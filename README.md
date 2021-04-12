@@ -81,6 +81,7 @@ La aplicación engloba todo lo necesario para el viaje, tanto restaurantes, como
 Tiene tanto página web como aplicación móvil | No se puede iniciar sesión para guardar la información que nos interese en nuestra cuenta
 Está disponible en varios idiomas | No se pueden reservar y comprar entradas de eventos directamente
 Contiene mapas |
+| ------------- | ------- |
  Preguntas | Nuevas ideas
 | ------------- | ------- |
   Poner más claro cómo reservar un alojamiento |
