@@ -87,6 +87,16 @@ Contiene mapas |
   Poner más claro cómo reservar un alojamiento |
   
     
+    
+    
+ POINT OF VIEW
+ 
+  Usuario | Necesidades | Explicación  
+| ------------- | ------- |
+ | 
+ 
+ 
+ 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
