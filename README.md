@@ -77,10 +77,11 @@ Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no pod
 
  Interesante | Críticas |     
 | ------------- | ------- |
+La aplicación es sencilla y fácil de utilizar | La aplicación está en varios sistemas operativos
 La aplicación engloba todo lo necesario para el viaje, tanto restaurantes, como tours, como hoteles | No tiene opción de reservar directamente un alojamiento
 Tiene tanto página web como aplicación móvil | No se puede iniciar sesión para guardar la información que nos interese en nuestra cuenta
-Está disponible en varios idiomas | No se pueden reservar y comprar entradas de eventos directamente
-Contiene mapas |
+Está disponible en varios idiomas | No se pueden reservar y comprar entradas de eventos directamente 
+Contiene mapas | No se puede organizar todos los eventos a los que se quiere asistir en un horario
 
  Preguntas | Nuevas ideas |
 | ------------- | ------- |
