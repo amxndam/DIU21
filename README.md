@@ -84,7 +84,8 @@ Contiene mapas |
 
  Preguntas | Nuevas ideas |
 | ------------- | ------- |
-  ¿Cómo se puede reservar un alojamiento directamente? |
+  ¿Cómo se puede reservar un alojamiento? | El alojamiento se pueda reservar directamente desde la aplicación
+  ¿Cómo aprender el funcionamiento de la aplicación? | Un apartado de información en donde hay un tutorial del uso de aplicación
   
     
     
@@ -93,7 +94,7 @@ Contiene mapas |
  
   Usuario | Necesidades | Explicación  
 | ------------- | ------- | ----------- |
- 
+ Una persona mayor de más de 60 años que viaja a Granada | Necesita una aplicación sencilla de utilizar que le reuna todas las necesidades del viaje | El usuario va a priorizar que la aplicación sea sencilla y que contenga todo lo que va a necesitar en el viaje (alojamiento, guías, restaurantes, mapas,...) ya que le va a suponer un esfuerzo aprender cómo funcionan diferentes aplicaciones. Le gustaría que la aplicación tuviera las letras grandes y que tuviera un apartado tutorial del funcionamiento de ésta.
  
  
  
