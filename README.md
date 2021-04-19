@@ -92,7 +92,7 @@ Contiene mapas |
  POINT OF VIEW
  
   Usuario | Necesidades | Explicación  
-| ------------- | ------- |
+| ------------- | ------- | ----------- |
  
  
  
