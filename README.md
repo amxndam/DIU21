@@ -87,8 +87,8 @@ Contiene mapas | No se puede organizar todos los eventos a los que se quiere asi
 | ------------- | ------- |
   ¿Cómo se puede reservar un alojamiento? | El alojamiento se pueda reservar directamente desde la aplicación
   ¿Cómo aprender el funcionamiento de la aplicación? | Un apartado de información en donde hay un tutorial del uso de aplicación
-  
-    
+  ¿Cómo se puede almacenar la información de los eventos? | Un horario para poder visualizar los eventos que se han reservado cada día
+
 
 
 
