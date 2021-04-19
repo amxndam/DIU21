@@ -84,7 +84,7 @@ Contiene mapas |
 
  Preguntas | Nuevas ideas |
 | ------------- | ------- |
-  Poner más claro cómo reservar un alojamiento |
+  ¿Cómo se puede reservar un alojamiento directamente? |
   
     
     
