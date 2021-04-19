@@ -120,6 +120,10 @@ Una familia que visita Granada | Necesita organizar todos los datos de su viaje 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+Nuestro proyecto consiste en una aplicación de turismo del ayuntamiento de Granada que consiga englobar toda la información y servicios necesarios por los turistas
+para ofrecer una buena experiencia viajando a la ciudad. Por tanto, ofrecerá tanto el alojamiento, como audioguías, tours de la ciudad, información y reserva de eventos, curiosidades, mapas, restaurantes,... Se podrá tener un horario para organizar el viaj y se podrá añadir a favoritos información que nos interese. Por último, se podrá ver las opiniones de otras personas, y así como añadir su propia opinión.
+
+![Scope Canvas](https://github.com/amxndam/DIU21/blob/main/img/scopecanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
