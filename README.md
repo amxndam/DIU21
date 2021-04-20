@@ -71,9 +71,6 @@ Para Joaquín Luque, hemos escogido esta experiencia porque es muy común no pod
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
  Interesante | Críticas |     
 | ------------- | ------- |
 La aplicación es sencilla y fácil de utilizar | La aplicación está en varios sistemas operativos
