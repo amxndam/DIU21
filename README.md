@@ -90,15 +90,6 @@ Contiene mapas | No se puede organizar todos los eventos a los que se quiere asi
   ¿Cómo se puede almacenar la información de los eventos? | Un horario para poder visualizar los eventos que se han reservado cada día
   ¿Cómo se podrá saber la calidad de los eventos, restaurantes y alojamientos? | Una parte de opiniones de otros usuarios cono guía
 
-
-
-
-**EMPATHY MAP**
-
-
-
-
-
     
  **POINT OF VIEW**
  
@@ -128,18 +119,22 @@ para ofrecer una buena experiencia viajando a la ciudad. Por tanto, ofrecerá ta
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![User7task matrix](P2/User_task_matrix.png)
 
+Se ha decidido escoger el método de User/Task matrix ya que su interpretación es más sencilla y permite a primera vista distinguir que aspectos del proyecto habría que desarrollar con más detalle y también nos permite identificar qué tareas son más importantes para cada usuario.
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Sitemap](P2/Sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+
+![Labelling](P2/labelling1.png)
+
+![Labelling](P2/labelling2.png)
+
+![Labelling](P2/labelling3.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
