@@ -2,14 +2,13 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU2_Alhucemas  Curso: 2020/21 
-Updated: 26/03/2021
+Updated: 20/04/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: 
+Descripción: Aplicación que permita reservar y planear viajes que incluyen todo tipo de posibles actividades que se puedan realizar durante la visita.
 
->>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
