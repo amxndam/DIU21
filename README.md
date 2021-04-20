@@ -135,16 +135,16 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-![Boceto 1](P2/'boceto 1'.jpg)
-![Boceto 2](P2/boceto 2.jpg)
-![Boceto 3](P2/boceto 3.jpg)
-![Boceto 4](P2/boceto 4.jpg)
-![Boceto 5](P2/boceto 5.jpg)
-![Boceto 6](P2/boceto 66.jpg)
-![Boceto 7](P2/boceto 6.jpg)
-![Boceto 8](P2/boceto 7.jpg)
-![Boceto 9](P2/boceto 8.jpg)
-![Boceto 10](P2/boceto 9.jpg)
+![Boceto 1](P2/boceto1.jpg)
+![Boceto 2](P2/boceto2.jpg)
+![Boceto 3](P2/boceto3.jpg)
+![Boceto 4](P2/boceto4.jpg)
+![Boceto 5](P2/boceto5.jpg)
+![Boceto 6](P2/boceto66.jpg)
+![Boceto 7](P2/boceto6.jpg)
+![Boceto 8](P2/boceto7.jpg)
+![Boceto 9](P2/boceto8.jpg)
+![Boceto 10](P2/boceto9.jpg)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
