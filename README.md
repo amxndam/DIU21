@@ -110,7 +110,7 @@ Una familia que visita Granada | Necesita organizar todos los datos de su viaje 
 Nuestro proyecto consiste en una aplicación de turismo del ayuntamiento de Granada que consiga englobar toda la información y servicios necesarios por los turistas
 para ofrecer una buena experiencia viajando a la ciudad. Por tanto, ofrecerá tanto el alojamiento, como audioguías, tours de la ciudad, información y reserva de eventos, curiosidades, mapas, restaurantes,... Se podrá tener un horario para organizar el viaj y se podrá añadir a favoritos información que nos interese. Por último, se podrá ver las opiniones de otras personas, y así como añadir su propia opinión.
 
-![Scope Canvas](https://github.com/amxndam/DIU21/blob/main/img/scopecanvas.png)
+![Scope Canvas](P2/scopecanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -135,8 +135,16 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Boceto 1](P2/boceto 1.jpg)
+![Boceto 2](P2/boceto 2.jpg)
+![Boceto 3](P2/boceto 3.jpg)
+![Boceto 4](P2/boceto 4.jpg)
+![Boceto 5](P2/boceto 5.jpg)
+![Boceto 6](P2/boceto 66.jpg)
+![Boceto 7](P2/boceto 6.jpg)
+![Boceto 8](P2/boceto 7.jpg)
+![Boceto 9](P2/boceto 8.jpg)
+![Boceto 10](P2/boceto 9.jpg)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
