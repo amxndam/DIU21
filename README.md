@@ -4,8 +4,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU2_Alhucemas  Curso: 2020/21 
 Updated: 20/04/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: iTravel
 
 Descripción: Aplicación que permita reservar y planear viajes que incluyen todo tipo de posibles actividades que se puedan realizar durante la visita, y para obtener información nos hemos basado en el análisis de la Web [TurGranada](https://www.turgranada.es/).
 
@@ -123,7 +122,6 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 
 ![Labelling](P2/labelling2.png)
 
-![Labelling](P2/labelling3.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
