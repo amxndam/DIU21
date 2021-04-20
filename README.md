@@ -7,7 +7,7 @@ Updated: 20/04/2021
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: Aplicación que permita reservar y planear viajes que incluyen todo tipo de posibles actividades que se puedan realizar durante la visita.
+Descripción: Aplicación que permita reservar y planear viajes que incluyen todo tipo de posibles actividades que se puedan realizar durante la visita, y para obtener información nos hemos basado en el análisis de la Web [TurGranada](https://www.turgranada.es/).
 
 
 Logotipo: 
