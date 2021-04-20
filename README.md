@@ -135,7 +135,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-![Boceto 1](P2/boceto 1.jpg)
+![Boceto 1](P2/'boceto 1'.jpg)
 ![Boceto 2](P2/boceto 2.jpg)
 ![Boceto 3](P2/boceto 3.jpg)
 ![Boceto 4](P2/boceto 4.jpg)
