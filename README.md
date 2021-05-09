@@ -10,7 +10,7 @@ Descripción: Aplicación que permita reservar y planear viajes que incluyen tod
 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![logotipo](img/logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Hossam Dady     :octocat:     
