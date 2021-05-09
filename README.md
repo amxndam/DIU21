@@ -9,6 +9,7 @@ Proyecto: TravelGran
 Descripción: Aplicación que permita reservar y planear viajes que incluyen todo tipo de posibles actividades que se puedan realizar durante la visita, y para obtener información nos hemos basado en el análisis de la Web [TurGranada](https://www.turgranada.es/).
 
 Logotipo:
+
 ![logotipo](img/logotipo.png)
 
 Miembros
