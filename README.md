@@ -169,7 +169,7 @@ En cuanto a la paleta de colores hemos elegido 5 colores, entre ellos están, el
  
  **Patrones IU**
  
- 
+ Para determinar los elementos sobre los Patrones IU que serán usados nos hemos basado en la web [UI-Patterns](http://ui-patterns.com/), que es un sistema de diseño open-source que nos muestra una gran variedad de herramientas. Las herramientas seleccionadas son las siguientes: 
  
 
 ![Método UX](img/mockup.png)  3.d Mockup
