@@ -168,6 +168,9 @@ En cuanto a la paleta de colores hemos elegido 5 colores, entre ellos están, el
 ![Paleta de Colores](img/PaletaColores.jpg)
  
  **Patrones IU**
+ 
+ 
+ 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
