@@ -169,6 +169,7 @@ En cuanto a la paleta de colores hemos elegido 5 colores, entre ellos están, el
  **Patrones IU**
  
 Para determinar los elementos sobre los Patrones IU que serán usados nos hemos basado en la web [UI-Patterns](http://ui-patterns.com/), que es un sistema de diseño open-source que nos muestra una gran variedad de herramientas. Las herramientas seleccionadas son las siguientes: 
+
               * : Navegación Breadcrumb: se usa para indicar la ubicación del usuario dentro del SiteMap.
               * : Frequently Asked Questions (FAQ): su funcionalidad es informar a los usuarios mediante las preguntas más realizadas sobre la página.
               * : Autocomplete Search: utilizada para completar el término que el usuario desea buscar.
