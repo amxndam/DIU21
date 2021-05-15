@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU2_Alhucemas  Curso: 2020/21 
-Updated: 20/04/2021
+Updated: 16/05/2021
 
 Proyecto: TravelGran
 
