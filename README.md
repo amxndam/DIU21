@@ -166,7 +166,7 @@ Para la Topografía hemos elegido dos fuentes, la primera es [PlayFair Display](
 ![Fuentes](img/Fuentes.jpg)
 
 En cuanto a la paleta de colores hemos elegido 5 colores, entre ellos están, el gris(#DED9D5) que se usa como color auxiliar y es compatible con los demás colores, tres tipos de marrón(#C49B7F, #AA6639, #783508) usados como color principal y además al ser de distintos tonos proporcionan dinamismo a la página, y finalmente el color verde(#507C75) que se usa como color secundario y que tiene un tono distinto al verde básico para hacerlo más atractivo a los usuarios. 
-![Paleta de Colores](img/PaletaColores.jpg)
+![Paleta de Colores](img/PaletaColores.jpg =550x300)
  
  **Patrones IU**
 
