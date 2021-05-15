@@ -153,8 +153,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+![Landing Page](img/LandingPage.jpg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
