@@ -162,6 +162,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 >>> Estudio de Guidelines y Patrones IU a usar 
 
 Para la Topografía hemos elegido dos fuentes, la primera es [PlayFair Display](https://fonts.google.com/specimen/Playfair+Display?query=Play&preview.text=Turismo%20por%20Granada&preview.text_type=custom), se usará en tres variantes "Regular", "Medium" y "Semi-bold". Esta fuente será principalmente para la mayoría de los textos explicativos y descriptivos que aparecen por pantalla. La segunda fuente que se usará es [Girassol](https://fonts.google.com/specimen/Girassol?preview.text=Turismo%20por%20Granada&preview.text_type=custom#standard-styles) con una solo varieante, la "Regular". Esta fuente solo será para los títulos y subtítulos que aparecen en la página, ya que tiene un aspecto raro y distinto a las fuentes que normalmente se usan en los textos.  
+![PlayFair Display]()  ![Girassol]
 
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
