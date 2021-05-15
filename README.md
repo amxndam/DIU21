@@ -159,7 +159,6 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 ----
 
 **Guidelines**
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 Para la Topografía hemos elegido dos fuentes, la primera es [PlayFair Display](https://fonts.google.com/specimen/Playfair+Display?query=Play&preview.text=Turismo%20por%20Granada&preview.text_type=custom), se usará en tres variantes "Regular", "Medium" y "Semi-bold". Esta fuente será principalmente para la mayoría de los textos explicativos y descriptivos que aparecen por pantalla. La segunda fuente que se usará es [Girassol](https://fonts.google.com/specimen/Girassol?preview.text=Turismo%20por%20Granada&preview.text_type=custom#standard-styles) con una solo varieante, la "Regular". Esta fuente solo será para los títulos y subtítulos que aparecen en la página, ya que tiene un aspecto raro y distinto a las fuentes que normalmente se usan en los textos.  
 ![Fuentes](img/Fuentes.jpg)
@@ -170,7 +169,15 @@ En cuanto a la paleta de colores hemos elegido 5 colores, entre ellos están, el
  **Patrones IU**
  
 Para determinar los elementos sobre los Patrones IU que serán usados nos hemos basado en la web [UI-Patterns](http://ui-patterns.com/), que es un sistema de diseño open-source que nos muestra una gran variedad de herramientas. Las herramientas seleccionadas son las siguientes: 
-   * :bust_in_silhouette: Navegación Breadcrumb: se usa para indicar la ubicación del usuario dentro del SiteMap.
+              * : Navegación Breadcrumb: se usa para indicar la ubicación del usuario dentro del SiteMap.
+              * : Frequently Asked Questions (FAQ): su funcionalidad es informar a los usuarios mediante las preguntas más realizadas sobre la página.
+              * : Autocomplete Search: utilizada para completar el término que el usuario desea buscar.
+              * : Settings Form: usada para que el usuario pueda configurar el funcionamiento de la aplicación.
+              * : 404 error pages: para indicarle al usuario de una situación de error en la aplicación.
+              * : Lazy Registration: se le permitirá a un cliente poder usar la página sin haberse registrado anteriormente.
+              * : Product Page: se le proporcionará al usuario una página por cada evento en la que aparece información relativa a este.
+              * : Shopping Cart: es un carro de compras donde el usuario puede introducir varios eventos y podrá reservarlos todos con un solo procesamiento de pago.
+              * : Pull to Refresh: permite refrescar la página cuando se desliza la página hacia abajo. Esta funciona solo en los dispositivos móviles.
  
 
 ![Método UX](img/mockup.png)  3.d Mockup
