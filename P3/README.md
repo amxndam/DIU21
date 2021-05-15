@@ -13,7 +13,7 @@
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/landing-page.png)  3.b Landing Page
 ----
 
-![Landing Page](https://github.com/amxndam/DIU21/blob/main/img/LandingPage.jpg)
+![Landing Page](https://github.com/amxndam/DIU21/blob/main/img/LandingPage.jpg) 
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/guidelines.png) 3.c Guidelines
 ----
