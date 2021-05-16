@@ -183,8 +183,8 @@ Para determinar los elementos sobre los Patrones IU que serán usados nos hemos 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+[Vídeo del mockup](https://drive.google.com/file/d/1PcdUR4mJ9y-ywtGOsj0Zwa8yXB0fg_ml/view?usp=sharing)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
