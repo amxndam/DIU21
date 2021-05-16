@@ -143,7 +143,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![MoodBoard](P3/MoodBoard1.png)
+![MoodBoard](img/MoodBoard.png)
 
 Para la creación del logotipo hemos utilizado una página web llamada [freelogodesign](https://es.freelogodesign.org/) que nos proporciona varios logos a elegir a partir del nombre que le introducimos, en nuestro caso el nombre de nuestra aplicación, TravelGran.
 
