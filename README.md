@@ -143,7 +143,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![MoodBoard](P3/MoodBoard.png)
+![MoodBoard](P3/MoodBoard1.png)
 
 Para el logotipo se ha usado la herramienta de freelogodesign
 
