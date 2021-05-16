@@ -1,3 +1,23 @@
+# DIU21
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+
+Grupo: DIU2_Alhucemas  Curso: 2020/21 
+Updated: 16/05/2021
+
+Proyecto: TravelGran
+
+Descripción: Aplicación que permita reservar y planear viajes que incluyen todo tipo de posibles actividades que se puedan realizar durante la visita, y para obtener información nos hemos basado en el análisis de la Web [TurGranada](https://www.turgranada.es/).
+
+Logotipo:
+
+![logotipo](https://github.com/amxndam/DIU21/blob/main/img/Logotipo.jpeg)
+
+Miembros
+ * :bust_in_silhouette:   Hossam Dady     :octocat:     
+ * :bust_in_silhouette:  Amanda Moyano Romero     :octocat:
+
+----- 
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
