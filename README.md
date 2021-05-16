@@ -200,8 +200,8 @@ También hemos realizado un vídeo con la simulación: [Vídeo del mockup](https
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-[Vídeo del case study](https://drive.google.com/file/d/1uKdwKgjegRx6CktzkorMInaVkGZFvI-O/view?usp=sharing)
+Hemos realizado un vídeo en el que se explica todo el proceso de desarrollo y diseño de la aplicación.
+[Vídeo del Case Study](https://drive.google.com/file/d/1uKdwKgjegRx6CktzkorMInaVkGZFvI-O/view?usp=sharing)
 
 
 
