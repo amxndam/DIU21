@@ -201,9 +201,8 @@ También hemos realizado un vídeo con la simulación: [Vídeo del mockup](https
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+[Vídeo del case study](https://drive.google.com/file/d/1uKdwKgjegRx6CktzkorMInaVkGZFvI-O/view?usp=sharing)
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
