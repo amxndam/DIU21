@@ -145,7 +145,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 -----
 ![MoodBoard](P3/MoodBoard1.png)
 
-Para el logotipo se ha usado la herramienta de freelogodesign
+Para la creación del logotipo hemos utilizado una página web llamada [freelogodesign](https://es.freelogodesign.org/) que nos proporciona varios logos a elegir a partir del nombre que le introducimos, en nuestro caso el nombre de nuestra aplicación, TravelGran.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
