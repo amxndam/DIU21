@@ -3,7 +3,7 @@
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/moodboard.png) 3.a Moodboard
 -----
-![MoodBoard](MoodBoard1.png)
+![MoodBoard](MoodBoard.png)
 
 Para la creación del logotipo hemos utilizado una página web llamada [freelogodesign](https://es.freelogodesign.org/) que nos proporciona varios logos a elegir a partir del nombre que le introducimos, en nuestro caso el nombre de nuestra aplicación, TravelGran.
 
