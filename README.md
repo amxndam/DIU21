@@ -141,14 +141,11 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](P3/MoodBoard.png) 3.a Moodboard
+![Método UX](MoodBoard.png) 3.a Moodboard
 -----
+![MoodBoard](P3/MoodBoard.png)
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+Para el logotipo se ha usado la herramienta de freelogodesign
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
