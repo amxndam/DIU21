@@ -183,6 +183,14 @@ Para determinar los elementos sobre los Patrones IU que serán usados nos hemos 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+![Página 1](P3/img/pag1.png)
+![Página 2](P3/img/pag2.png)
+![Página 3](P3/img/pag3.png)
+![Página 4](P3/img/pag4.png)
+![Página 5](P3/img/pag5.png)
+![Página 6](P3/img/pag6.png)
+![Página 7](P3/img/pag7.png)
+![Página 8](P3/img/pag8.png)
 [Vídeo del mockup](https://drive.google.com/file/d/1PcdUR4mJ9y-ywtGOsj0Zwa8yXB0fg_ml/view?usp=sharing)
 
 
