@@ -194,7 +194,7 @@ Para determinar los elementos sobre los Patrones IU que serán usados nos hemos 
 
 
 
-También hemos realizado un vídeo con la animación: [Vídeo del mockup](https://drive.google.com/file/d/1PcdUR4mJ9y-ywtGOsj0Zwa8yXB0fg_ml/view?usp=sharing)
+También hemos realizado un vídeo con la simulación: [Vídeo del mockup](https://drive.google.com/file/d/1PcdUR4mJ9y-ywtGOsj0Zwa8yXB0fg_ml/view?usp=sharing)
 
 
 
