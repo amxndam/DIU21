@@ -141,7 +141,7 @@ Se ha decidido escoger el método de User/Task matrix ya que su interpretación 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](MoodBoard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 ![MoodBoard](P3/MoodBoard.png)
 
