@@ -3,17 +3,14 @@
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/moodboard.png) 3.a Moodboard
 -----
+![MoodBoard](MoodBoard1.png)
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+Para la creación del logotipo hemos utilizado una página web llamada [freelogodesign](https://es.freelogodesign.org/) que nos proporciona varios logos a elegir a partir del nombre que le introducimos, en nuestro caso el nombre de nuestra aplicación, TravelGran.
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/landing-page.png)  3.b Landing Page
 ----
 
-![Landing Page](https://github.com/amxndam/DIU21/blob/main/img/LandingPage.jpg) 
+![Landing Page](https://github.com/amxndam/DIU21/blob/main/img/LandingPage.jpg)
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/guidelines.png) 3.c Guidelines
 ----
@@ -26,6 +23,9 @@ Para la Topografía hemos elegido dos fuentes, la primera es [PlayFair Display](
 En cuanto a la paleta de colores hemos elegido 5 colores, entre ellos están, el gris(#DED9D5) que se usa como color auxiliar y es compatible con los demás colores, tres tipos de marrón(#C49B7F, #AA6639, #783508) usados como color principal y además al ser de distintos tonos proporcionan dinamismo a la página, y finalmente el color verde(#507C75) que se usa como color secundario y que tiene un tono distinto al verde básico para hacerlo más atractivo a los usuarios. 
 ![Paleta de Colores](https://github.com/amxndam/DIU21/blob/main/img/PaletaColores.jpg)
  
+En cuanto a los iconos, hemos tratado de usar los que son más fáciles de interpretar a primera vista por parte de los usuarios para evitar confusiones y proporcionar un diseño con una buena representación visual.
+![Iconos](https://github.com/amxndam/DIU21/blob/main/img/Iconos.jpeg)
+
  **Patrones IU**
  
 Para determinar los elementos sobre los Patrones IU que serán usados nos hemos basado en la web [UI-Patterns](http://ui-patterns.com/), que es un sistema de diseño open-source que nos muestra una gran variedad de herramientas. Las herramientas seleccionadas son las siguientes: 
@@ -43,13 +43,23 @@ Para determinar los elementos sobre los Patrones IU que serán usados nos hemos 
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/mockup.png)  3.d Mockup
 ----
+![Página 1](img/pag1.png)
+![Página 2](img/pag2.png)
+![Página 3](img/pag3.png)
+![Página 4](img/pag4.png)
+![Página 5](img/pag5.png)
+![Página 6](img/pag6.png)
+![Página 7](img/pag7.png)
+![Página 8](img/pag8.png)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
+
+También hemos realizado un vídeo con la simulación: [Vídeo del mockup](https://drive.google.com/file/d/1PcdUR4mJ9y-ywtGOsj0Zwa8yXB0fg_ml/view?usp=sharing)
+
 
 
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
+Hemos realizado un vídeo en el que se explica todo el proceso de desarrollo y diseño de la aplicación.
+[Vídeo del Case Study](https://drive.google.com/file/d/1uKdwKgjegRx6CktzkorMInaVkGZFvI-O/view?usp=sharing)
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
