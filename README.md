@@ -223,9 +223,9 @@ Vamos a evaluar al grupo TeamAlpacas de DIU1 con su aplicación Appestruz: [Gith
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | María     | M / 31   | Médico  | Media       | Perfecionista | Móvil       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| User2's name  |    |   |        |        |         | A 
 | Pablo  | H / 69   | Jubilado     | Baja        | Racional    | Web      | B 
-| User4's name  | M / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User4's name  |    |   |        |      |         | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
