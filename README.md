@@ -211,6 +211,7 @@ Hemos realizado un vídeo en el que se explica todo el proceso de desarrollo y d
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 Vamos a evaluar al grupo TeamAlpacas de DIU1 con su aplicación Appestruz: [Github](https://github.com/susolr/DIU21)
+Appestruz es una aplicación para poder planificar y gestionar viajes.
 
  
 
