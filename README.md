@@ -225,7 +225,7 @@ Appestruz es una aplicación para poder planificar y gestionar viajes.
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | María     | M / 31   | Médico  | Media       | Perfecionista | Móvil       | A 
 | User2's name  |    |   |        |        |         | A 
-| Pablo  | H / 69   | Jubilado     | Baja        | Estusiasmado    | Web      | B 
+| Pablo  | H / 67   | Jubilado     | Baja        | Estusiasmado    | Web      | B 
 | User4's name  |    |   |        |      |         | B 
 
 
