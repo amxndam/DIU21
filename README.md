@@ -210,10 +210,9 @@ Hemos realizado un vídeo en el que se explica todo el proceso de desarrollo y d
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+- TeamAlpacas de DIU1 con su aplicación Appestruz: [Github] (https://github.com/susolr/DIU21)
+- ALH de DIU3 con su aplicación GoGoKart: [Github] (https://github.com/jmillangalvez/DIU21)
+ 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
