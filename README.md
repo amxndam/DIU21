@@ -210,8 +210,9 @@ Hemos realizado un vídeo en el que se explica todo el proceso de desarrollo y d
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-- TeamAlpacas de DIU1 con su aplicación Appestruz: [Github](https://github.com/susolr/DIU21)
-- ALH de DIU3 con su aplicación GoGoKart: [Github](https://github.com/jmillangalvez/DIU21)
+Vamos a evaluar al grupo ALH de DIU3 con su aplicación GoGoKart: [Github](https://github.com/jmillangalvez/DIU21)
+Es una aplicación para organizar carreras de karts, en donde centros podrán realizar torneos y los usuarios podrán participar.
+
  
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
