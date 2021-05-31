@@ -245,34 +245,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ![Cuestionario Caso B](P4/SUS/CuestionarioSUS_CasoB.jpg)
 
+Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test A/B hay una gran diferencia entre la valoración que aporta el User2(Pablo) y los demás usuarios y eso se debe a la diferencia de experiencia en el mundo del internet entre el User2 y los demás usuarios, que como observamos, tiene menos experiencia en internet por lo que la mayoría de las funcionalidades que por ejemplo al User3 le parecen báscias y sencillas, al User2 le parecen más complicadas y necesitaría tiempo para acostumbrarse. Esto demuestra que para ambos casos se podría mejorar el sistema de instrucciones en caso de que el usuario las necesite, para que su utilización se considere cómoda por parte de los usuarios.
+
+
 **Test A/B**
 
 ![Test A/B](P4/testAB.jpg)
 
-
-
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-El reporte de usabilidad: [documento](P4/DIU_report-template-usability-testOK.pdf)
 
-**Valoración personal**
-La aplicación es aceptable, intuitiva pero podría ser más completa, con las opciones mejor organizadas. Uno de los mayores problemas que tiene es el uso de imágenes para representar las opciones como los distintos tipos de transporte o las diferentes rutas. No son muy reconocibles y afecta a la accesibilidad de la aplicación, por tanto, se recomienda que se añada títulos descriptivos a cada opción. También nos ha parecido confuso la posición del submenú con las configuraciones y el FAQ ya que no suele estar colocado ahí en las aplicaciones. A parte de los problemas mencionados, la aplicación es un gran recurso para poder viajar y tener todo organizado. 
+>>> - Enlace al documento:  ![Usability Review](P1/Usability-review-template.pdf)
 
-
-  
-
-## Conclusión final / Valoración de las prácticas ##
-Han sido unas prácticas muy interesantes y hemos aprendido nociones de diseño básicas que nos van a ayudar mucho en el futuro, sobre todo si decidimos realizar alguna aplicación por nuestra cuenta. También ha sido muy curioso ver la perspectiva del usuario en un proyecto y cómo asegurar que tengan una buena experiencia utilizando el software.
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>> Valoración personal: 
+ 
