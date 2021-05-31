@@ -240,7 +240,7 @@ Para obtener valoraciones sobre nuestros dos casos hemos elegido 4 personas, que
 
 **Test A/B**
 
-![Test A/B](P4/testAB.jpg)
+![Test A/B](P4/Test_A_B.png)
 
 Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test A/B hay una gran diferencia entre la valoración que aporta el User2(Pablo) y los demás usuarios y eso se debe a la diferencia de experiencia en el mundo del internet entre el User2(Pablo) y los demás usuarios, que como observamos, tiene menos experiencia en internet por lo que la mayoría de las funcionalidades que por ejemplo al User3(Juan) le parecen báscias y sencillas, al User2(Pablo) le parecen más complicadas y necesitaría tiempo para acostumbrarse. Esto demuestra que para ambos casos se podría mejorar el sistema de instrucciones en caso de que el usuario las necesite, para que su utilización se considere cómoda por parte de los usuarios.
 
