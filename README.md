@@ -253,6 +253,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
+El reporte de usabilidad: [documento](P4/DIU_report-template-usability-testOK.pdf)
+
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
