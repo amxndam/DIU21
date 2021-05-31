@@ -210,16 +210,14 @@ Hemos realizado un vídeo en el que se explica todo el proceso de desarrollo y d
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-Vamos a evaluar al grupo TeamAlpacas de DIU1 con su aplicación Appestruz: [Github](https://github.com/susolr/DIU21)
-Appestruz es una aplicación para poder planificar y gestionar viajes.
+Vamos a evaluar al grupo TeamAlpacas de DIU1 con su aplicación [Appestruz](https://github.com/susolr/DIU21) que se trata de una aplicación que permite planificar y gestionar viajes ofreciendo a los usuarios una gran variedad de eventos que disfrutar y la opción de poder realizar todas las reservas deseadas, a través de la aplicación.
 
  
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Para obtener valoraciones sobre nuestros dos casos hemos elegido 4 personas, que incluyen tanto a personas ficticias como reales. Hemos intentado elegir a usuarios con distintas perspectivas y experiencias para que se pueda proporcionar una valoración más detallada según las necesidades de las distintas personas. 
 
 | Usuarios |    Sexo/Edad  |      Ocupación      |  Exp.TIC    | Personalidad  | Plataforma | TestA/B
 | ---------| ------------- | ------------------- | ----------- | ------------- | ---------- | --------
@@ -250,6 +248,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 **Test A/B**
 
 ![Test A/B](P4/testAB.jpg)
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
