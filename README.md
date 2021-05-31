@@ -232,18 +232,17 @@ Para obtener valoraciones sobre nuestros dos casos hemos elegido 4 personas, que
 
 **Cuestionario CASO A (TravelGran)**
 
-![Cuestionario Caso A](P4/SUS/CuestionarioSUS_CasoA.jpg)
+![Cuestionario Caso A](P4/CuestionarioSUS_CasoA.jpg)
 
 **Cuestionario CASO B (Appestruz)**
 
-![Cuestionario Caso B](P4/SUS/CuestionarioSUS_CasoB.jpg)
-
-Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test A/B hay una gran diferencia entre la valoración que aporta el User2(Pablo) y los demás usuarios y eso se debe a la diferencia de experiencia en el mundo del internet entre el User2 y los demás usuarios, que como observamos, tiene menos experiencia en internet por lo que la mayoría de las funcionalidades que por ejemplo al User3 le parecen báscias y sencillas, al User2 le parecen más complicadas y necesitaría tiempo para acostumbrarse. Esto demuestra que para ambos casos se podría mejorar el sistema de instrucciones en caso de que el usuario las necesite, para que su utilización se considere cómoda por parte de los usuarios.
-
+![Cuestionario Caso B](P4/CuestionarioSUS_CasoB.jpg)
 
 **Test A/B**
 
 ![Test A/B](P4/testAB.jpg)
+
+Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test A/B hay una gran diferencia entre la valoración que aporta el User2(Pablo) y los demás usuarios y eso se debe a la diferencia de experiencia en el mundo del internet entre el User2(Pablo) y los demás usuarios, que como observamos, tiene menos experiencia en internet por lo que la mayoría de las funcionalidades que por ejemplo al User3(Juan) le parecen báscias y sencillas, al User2(Pablo) le parecen más complicadas y necesitaría tiempo para acostumbrarse. Esto demuestra que para ambos casos se podría mejorar el sistema de instrucciones en caso de que el usuario las necesite, para que su utilización se considere cómoda por parte de los usuarios.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -251,5 +250,6 @@ Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test
 >>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](P1/Usability-review-template.pdf)
 
 >>> Valoración personal: 
+
 Como conclusión final podemos decir que la aplicación que han desarrollado nuestros compañeros nos ha llamado mucho la atención, por la selección de colores y por el diseño del Landing Page. Otro aspecto en el que nos hemos fijado fue la accesibilidad, en la que se utiliza muchas imágenes en vez de texto para definir opciones como por ejemplo a la hora de elegir el tipo de transporte o las noticias, lo cual hace que si una persona tiene alguna discapacidad relacionada con problemas visuales , a lo mejor tendrá problemas reconociendo las imágenes. Pero en general cumple con todo lo necesarios para considerarse una buena aplicación.
  
