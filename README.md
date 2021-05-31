@@ -232,6 +232,16 @@ Appestruz es una aplicación para poder planificar y gestionar viajes.
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
+Cuestionario CASO A (App TravelGran)
+![Cuestionario Caso A](P4/CuestionarioSUS_CasoA.jpg)
+
+
+Cuestionario CASO B (App Appestruz)
+![Cuestionario Caso B](P4/CuestionarioSUS_CasoB.jpg)
+
+Test A/B
+![Test A/B](P4/testAB.jpg)
+
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
