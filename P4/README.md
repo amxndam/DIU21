@@ -60,7 +60,7 @@ Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test
 ![Método UX](https://github.com/amxndam/DIU21/blob/main/img/usability-report.png) 4.d Usability Report
 ----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](https://github.com/amxndam/DIU21/blob/main/P4/DIU_report-template-usability-testOK.pdf)
+>>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](https://github.com/amxndam/DIU21/blob/main/P4/P4_UsabReport_Appestruz_doneby_DIU2_Alhucemas.pdf)
 
 >>> Valoración personal:
 
