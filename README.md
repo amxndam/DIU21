@@ -230,13 +230,6 @@ Para obtener valoraciones sobre nuestros dos casos hemos elegido 4 personas, que
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
 **Cuestionario CASO A (TravelGran)**
 
 ![Cuestionario Caso A](P4/SUS/CuestionarioSUS_CasoA.jpg)
@@ -255,7 +248,8 @@ Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->>> - Enlace al documento:  ![Usability Review](P1/Usability-review-template.pdf)
+>>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](P1/Usability-review-template.pdf)
 
 >>> Valoración personal: 
+Como conclusión final podemos decir que la aplicación que han desarrollado nuestros compañeros nos ha llamado mucho la atención, por la selección de colores y por el diseño del Landing Page. Otro aspecto en el que nos hemos fijado fue la accesibilidad, en la que se utiliza muchas imágenes en vez de texto para definir opciones como por ejemplo a la hora de elegir el tipo de transporte o las noticias, lo cual hace que si una persona tiene alguna discapacidad relacionada con problemas visuales , a lo mejor tendrá problemas reconociendo las imágenes. Pero en general cumple con todo lo necesarios para considerarse una buena aplicación.
  
