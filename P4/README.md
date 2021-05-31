@@ -62,6 +62,6 @@ Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test
 
 >>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](https://github.com/amxndam/DIU21/blob/main/P4/DIU_report-template-usability-testOK.pdf)
 
->>> Valoración personal: 
+>>> Valoración personal:
 
 Como conclusión final podemos decir que la aplicación que han desarrollado nuestros compañeros nos ha llamado mucho la atención, por la selección de colores y por el diseño del Landing Page. Otro aspecto en el que nos hemos fijado fue la accesibilidad, en la que se utiliza muchas imágenes en vez de texto para definir opciones como por ejemplo a la hora de elegir el tipo de transporte o las noticias, lo cual hace que si una persona tiene alguna discapacidad relacionada con problemas visuales , a lo mejor tendrá problemas reconociendo las imágenes. Pero en general cumple con todo lo necesarios para considerarse una buena aplicación.
