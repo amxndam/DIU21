@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU2_Alhucemas  Curso: 2020/21 
-Updated: 16/05/2021
+Updated: 31/05/2021
 
 Proyecto: TravelGran
 
@@ -221,12 +221,12 @@ Appestruz es una aplicación para poder planificar y gestionar viajes.
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| María     | M / 31   | Médico  | Media       | Perfecionista | Móvil       | A 
-| User2's name  |    |   |        |        |         | A 
-| Pablo  | H / 67   | Jubilado     | Baja        | Estusiasmado    | Web      | B 
-| User4's name  |    |   |        |      |         | B 
+| Usuarios |    Sexo/Edad  |      Ocupación      |  Exp.TIC    | Personalidad  | Plataforma | TestA/B
+| ---------| ------------- | ------------------- | ----------- | ------------- | ---------- | --------
+| María    | M / 31        | Médico              | Media       | Perfecionista | Móvil      | A 
+| Juan     | H / 21        | Estudiante          | Alta        | Extrovertido  | Móvil      | A        
+| Pablo    | H / 67        | Jubilado            | Baja        | Estusiasmado  | Web        | B 
+| Carmen   | M / 28        | Profesora de Inglés | Alta        | Enérgica      | Móvil      | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
