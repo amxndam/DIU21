@@ -255,15 +255,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ----
 El reporte de usabilidad: [documento](P4/DIU_report-template-usability-testOK.pdf)
 
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+**Valoración personal**
+La aplicación es aceptable, intuitiva pero podría ser más completa, con las opciones mejor organizadas. Uno de los mayores problemas que tiene es el uso de imágenes para representar las opciones como los distintos tipos de transporte o las diferentes rutas. No son muy reconocibles y afecta a la accesibilidad de la aplicación, por tanto, se recomienda que se añada títulos descriptivos a cada opción. También nos ha parecido confuso la posición del submenú con las configuraciones y el FAQ ya que no suele estar colocado ahí en las aplicaciones. A parte de los problemas mencionados, la aplicación es un gran recurso para poder viajar y tener todo organizado. 
 
 
   
+
+## Conclusión final / Valoración de las prácticas ##
+Han sido unas prácticas muy interesantes y hemos aprendido nociones de diseño básicas que nos van a ayudar mucho en el futuro, sobre todo si decidimos realizar alguna aplicación por nuestra cuenta. También ha sido muy curioso ver la perspectiva del usuario en un proyecto y cómo asegurar que tengan una buena experiencia utilizando el software.
 
 
 
