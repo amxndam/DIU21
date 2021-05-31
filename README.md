@@ -247,7 +247,7 @@ Como podemos observar tanto en los cuestionarios SUS de ambos casos como el Test
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](P1/Usability-review-template.pdf)
+>>> Añadir report de usabilidad para práctica B (la de los compañeros) → [Usability Review](P4/P4_UsabReport_Appestruz_doneby_DIU2_Alhucemas.pdf)
 
 >>> Valoración personal: 
 
